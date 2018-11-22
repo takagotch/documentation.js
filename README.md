@@ -1,6 +1,6 @@
 ### documentation.js
 ---
-https://devdocs.io/
+http://documentation.js.org/
 
 ```
 ```
