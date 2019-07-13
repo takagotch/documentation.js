@@ -2,6 +2,8 @@
 ---
 http://documentation.js.org/
 
+https://github.com/documentationjs/documentation
+
 ```js
 /*
 *@param {number} input
